@@ -1,8 +1,7 @@
 # WLC-Coding-Round
 WLC Coding Round Repo
 <?php
-// Your code here!
-/* 
+
 
 Burgerking sells three items: 
 VegBurger which needs 2 breads & 1 veg pattice
